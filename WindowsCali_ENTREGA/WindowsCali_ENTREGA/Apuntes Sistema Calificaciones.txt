@@ -1,0 +1,55 @@
+---------------------------------------------------- ESTRUCTURA DE TABLAS AL 17/09/2020 -----------------
+
+asignatura ("Clave" TEXT NOT NULL, "Nombre_Asignatura" TEXT NOT NULL, "Cantidad_Creditos" INTEGER NOT NULL, "ID_Carrera" TEXTO , "Profesor" TEXT)
+
+calificacion ("ID_Estudiante" TEXT NOT NULL, "Carrera" TEXT NOT NULL, "Clave_Asignatura" TEXT NOT NULL, "Valor_Calificacion" TEXT NOT NULL, "Nota_Equivalente" TEXT NOT NULL, "Alumno" TEXT)
+
+estudiante ("ID" TEXT NOT NULL, "Nombres" TEXT NOT NULL, "Apellidos" TEXT NOT NULL, "ID_Carrera" TEXT NOT NULL, "Password" TEXT)
+
+profesor ("ID_Profesor" TEXT NOT NULL, "Nombres_Profesor" TEXT NOT NULL, "Apellidos_Profesor" TEXT, "Password" TEXT)
+
+"tbCarrera" ("ID_Registro" INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, "ID_Carrera" TEXT NOT NULL, "Nombre_Carrera" TEXT NOT NULL)
+
+tbvalornotas ("Valor_Literal" TEXT NOT NULL, "Valor_Numerico" INTEGER NOT NULL)
+
+user ("User" TEXT NOT NULL, "vPass" TEXT NOT NULL, "Tipo_Usuario" TEXT NOT NULL, "Nombres" TEXT, "Apellidos" TEXT)
+
+
+Mejoras encontradas el 19/09/2020:
+
+- FORMULARIO REGISTRO DE ESTUDIANTE:
+	- Inclusion mensaje al grabar estudiante y si falla.
+	- Mover limpiar campos a la funcion registrar porque siempre limpiaba, independientemente de que grabe o no.
+	- En Limpiar_Cambos() sustitui CBOCARRETA.TEXT por CBOCARRERA.SelectedIndex=-1 porque no quitaba el texto.
+	- Al buscar un estudiante por ID no debe mostrarse el Password (EVALUAR PONERLE ASTERISCOS O EN BLANCO)
+	- PROBANDO LA ACTUALIZACION:
+		- No limpia el textbox para buscar por ID cuando graba los datos.
+		- Incluí un método para habilitar/deshabilitar los botones
+	
+	- PROBANDO LA ELIMINACION:
+		- No debe evaluar si hay campos vacíos hay conflictos cuando el estudiante no tiene carrera.
+		- Funciona a la perfección.
+
+
+- FORMULARIO DE LOGIN:
+	- Copié y renombré el método Confirmar_Usuario_Existe() a Confirmar_Usuario_Existe2() para hacer cambios necesarios sin afectar al original.
+	- Creé una vista en la base de datos llamada vwBuscar_Usuarios para seleccionar el ID, Password y Tipo_Usuario de las diferentes tablas.
+	  Esta vista incluye un Distinct para evitar que la consulta traiga filas duplicadas.
+
+- FORMULARIO DE PROFESORES:
+	- Estoy sustituyendo la consulta por la vista creada para que traiga todos los usuarios de las diferentes tablas.
+	- En el botón BUSCAR se invoca el método Existen2(), el cual busca por el control BoxID y no por el valor que se desea buscar. Por eso no 		  halla el ID. Para corregirlo, le asignaré el valor del ID digitado al BoxID para que el método Existen2() pueda funcionar.
+	- A la tabla de Profesores le añadí el campo Asignatura_Imparte (de tipo Texto) para guardar el valor de esa variable en el formulario.
+	- Ocultaré el password que retorna con la búsqueda a la base de datos.
+	- Hice un cambio en el ComboBox Asignatura para guardar el nombre de la asignatura, no la clave. Para que sea más legible.
+	- Añadí dos parámetros (Password y Asignatura_Imparte) para grabarlos en la tabla Profesores.
+	- El método Validar_Controles no estaba validandolo a todos.
+
+
+
+
+
+
+
+	
+

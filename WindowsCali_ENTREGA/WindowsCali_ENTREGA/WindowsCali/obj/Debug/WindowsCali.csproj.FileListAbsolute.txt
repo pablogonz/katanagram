@@ -1,0 +1,190 @@
+C:\Users\Jcontreras\source\repos\WindowsCali\WindowsCali\bin\Debug\WindowsCali.exe.config
+C:\Users\Jcontreras\source\repos\WindowsCali\WindowsCali\bin\Debug\WindowsCali.exe
+C:\Users\Jcontreras\source\repos\WindowsCali\WindowsCali\bin\Debug\WindowsCali.pdb
+C:\Users\Jcontreras\source\repos\WindowsCali\WindowsCali\obj\Debug\WindowsCali.csprojAssemblyReference.cache
+C:\Users\Jcontreras\source\repos\WindowsCali\WindowsCali\obj\Debug\WindowsCali.Form1.resources
+C:\Users\Jcontreras\source\repos\WindowsCali\WindowsCali\obj\Debug\WindowsCali.Properties.Resources.resources
+C:\Users\Jcontreras\source\repos\WindowsCali\WindowsCali\obj\Debug\WindowsCali.csproj.GenerateResource.cache
+C:\Users\Jcontreras\source\repos\WindowsCali\WindowsCali\obj\Debug\WindowsCali.csproj.CoreCompileInputs.cache
+C:\Users\Jcontreras\source\repos\WindowsCali\WindowsCali\obj\Debug\WindowsCali.exe
+C:\Users\Jcontreras\source\repos\WindowsCali\WindowsCali\obj\Debug\WindowsCali.pdb
+C:\Users\Jcontreras\source\repos\WindowsCali\WindowsCali\obj\Debug\WindowsCali.QueDeseaRegistra.resources
+C:\Users\Jcontreras\source\repos\WindowsCali\WindowsCali\obj\Debug\WindowsCali.RegistrodeEstudiantes.resources
+C:\Users\Jcontreras\source\repos\WindowsCali\WindowsCali\obj\Debug\WindowsCali.RegistrodeProfesores.resources
+C:\Users\Jcontreras\source\repos\WindowsCali\WindowsCali\obj\Debug\WindowsCali.RegistrarAsignatura.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\bin\Debug\WindowsCali.exe.config
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\bin\Debug\WindowsCali.exe
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\bin\Debug\WindowsCali.pdb
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\obj\Debug\WindowsCali.csprojAssemblyReference.cache
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\obj\Debug\WindowsCali.Form1.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\obj\Debug\WindowsCali.RegistrarAsignatura.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\obj\Debug\WindowsCali.RegistrodeEstudiantes.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\obj\Debug\WindowsCali.Properties.Resources.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\obj\Debug\WindowsCali.QueDeseaRegistra.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\obj\Debug\WindowsCali.RegistrodeProfesores.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\obj\Debug\WindowsCali.csproj.GenerateResource.cache
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\obj\Debug\WindowsCali.csproj.CoreCompileInputs.cache
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\obj\Debug\WindowsCali.exe
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\obj\Debug\WindowsCali.pdb
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\bin\Debug\System.Data.SQLite.dll
+C:\Users\William Emil Abreu\Desktop\WindowsCali\WindowsCali\obj\Debug\WindowsCali.csproj.CopyComplete
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\obj\Debug\WindowsCali.csprojAssemblyReference.cache
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\obj\Debug\WindowsCali.Form1.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\obj\Debug\WindowsCali.RegistrarAsignatura.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\obj\Debug\WindowsCali.RegistrodeEstudiantes.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\obj\Debug\WindowsCali.Properties.Resources.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\obj\Debug\WindowsCali.QueDeseaRegistra.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\obj\Debug\WindowsCali.RegistrodeProfesores.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\obj\Debug\WindowsCali.csproj.GenerateResource.cache
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\obj\Debug\WindowsCali.csproj.CoreCompileInputs.cache
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\obj\Debug\WindowsCali.exe
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\obj\Debug\WindowsCali.pdb
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\bin\Debug\WindowsCali.exe.config
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\bin\Debug\WindowsCali.exe
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\bin\Debug\WindowsCali.pdb
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\bin\Debug\System.Data.SQLite.dll
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\obj\Debug\WindowsCali.csproj.CopyComplete
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\bin\Debug\EntityFramework.dll
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\bin\Debug\EntityFramework.xml
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\bin\Debug\System.Data.SQLite.xml
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\obj\Debug\WindowsCali.RegistroCalificaciones.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali\WindowsCali\obj\Debug\WindowsCali.frmPuntosHonor.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\bin\Debug\WindowsCali.exe.config
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\bin\Debug\WindowsCali.exe
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\bin\Debug\WindowsCali.pdb
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.dll
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.dll
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.xml
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.xml
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csprojAssemblyReference.cache
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.Form1.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.frmPuntosHonor.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistrarAsignatura.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistroCalificaciones.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistrodeEstudiantes.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.Properties.Resources.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.QueDeseaRegistra.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistrodeProfesores.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csproj.GenerateResource.cache
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csproj.CoreCompileInputs.cache
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csproj.CopyComplete
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.exe
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.pdb
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.Registro.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csprojAssemblyReference.cache
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.exe
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.pdb
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\bin\Debug\WindowsCali.exe.config
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\bin\Debug\WindowsCali.exe
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\bin\Debug\WindowsCali.pdb
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.dll
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.dll
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.xml
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.xml
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.Form1.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.frmPuntosHonor.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistrarAsignatura.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.Registro.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistroCalificaciones.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistrodeEstudiantes.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.Properties.Resources.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.QueDeseaRegistra.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistrodeProfesores.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csproj.GenerateResource.cache
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csproj.CoreCompileInputs.cache
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csproj.CopyComplete
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.fCrearUsuarios.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.FEstudiante.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.FProfesorCalificar.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.fCrearUsuarios.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.FEstudiante.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.FProfesorCalificar.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.SeleccionAsignatura.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.ReporteCalificacionesEstudiante.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\bin\Debug\WindowsCali.exe.config
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\bin\Debug\WindowsCali.exe
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\bin\Debug\WindowsCali.pdb
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.dll
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.dll
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.xml
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.xml
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csprojAssemblyReference.cache
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.fCrearUsuarios.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.FEstudiante.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.Form1.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.FProfesorCalificar.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.frmPuntosHonor.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistrarAsignatura.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.Registro.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistroCalificaciones.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistrodeEstudiantes.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.Properties.Resources.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.QueDeseaRegistra.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistrodeProfesores.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.ReporteCalificacionesEstudiante.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.SeleccionAsignatura.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csproj.GenerateResource.cache
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csproj.CoreCompileInputs.cache
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csproj.CopyComplete
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.exe
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.pdb
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.fRegistrar_Seleccion.resources
+C:\Users\jromero\Google Drive\Recursos de Programación\Programación C#\WindowsCali_ENTREGA_al_17_07_2020\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.fRetiro_Asignatura.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.fRetiro_Asignatura.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.fRegistrar_Seleccion.resources
+C:\Users\William Emil Abreu\Desktop\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.IndiceEstudiante.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\bin\Debug\WindowsCali.exe.config
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\bin\Debug\WindowsCali.exe
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\bin\Debug\WindowsCali.pdb
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.dll
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.dll
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.xml
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.xml
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csproj.AssemblyReference.cache
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.fCrearUsuarios.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.FEstudiante.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.Form1.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.fRetiro_Asignatura.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.fRegistrar_Seleccion.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.FProfesorCalificar.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.frmPuntosHonor.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.IndiceEstudiante.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistrarAsignatura.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.Registro.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistroCalificaciones.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistrodeEstudiantes.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.Properties.Resources.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.QueDeseaRegistra.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.RegistrodeProfesores.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.ReporteCalificacionesEstudiante.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.SeleccionAsignatura.resources
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csproj.GenerateResource.cache
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.csproj.CopyComplete
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.exe
+C:\Users\LENOVO\OneDrive\Escritorio\WindowsCali_ENTREGA\WindowsCali_ENTREGA\WindowsCali\obj\Debug\WindowsCali.pdb
